@@ -47,11 +47,9 @@ The project consists of three main files:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Pablo0413/weather-app.git>
    cd <repository-directory>
    ```
-
-
 2. **Open `index.html`**:
 
    Simply open the `index.html` file in your web browser to view the Weather App.
